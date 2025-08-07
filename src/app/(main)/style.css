@@ -1,0 +1,23 @@
+.product-card .ant-card-body {
+  padding: 15px;
+}
+.product-card
+  .ant-card-body
+  .ant-card-meta
+  .ant-card-meta-detail
+  .ant-card-meta-title {
+  color: #4255e6;
+}
+
+.action-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+.action-card .details-btn {
+  font-size: 12px;
+  height: 0;
+  padding: 0;
+  color: #4255e6;
+
+}

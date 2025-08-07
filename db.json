@@ -1,0 +1,97 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/1.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/1.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/3.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/2.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/2.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/2.jpg"
+    },
+    {
+      "id": 1,
+      "name": {
+        "en": "Smart Watch - X200",
+        "ar": "ساعة ذكية - X200"
+      },
+      "description": {
+        "en": "Waterproof smartwatch with heart rate monitor",
+        "ar": "ساعة مقاومة للماء مع مراقبة نبضات القلب"
+      },
+      "price": 299.99,
+      "image": "assets/images/1.jpg"
+    }
+  ],
+  "favourites": [],
+  "cart": []
+}
