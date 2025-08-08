@@ -50,12 +50,6 @@ export default function Header() {
         {/* Large screen menu */}
         <div className="desktop-menu">
           <Space>
-            <Button
-              className="btn-menu"
-              type="default"
-              icon={<UnorderedListOutlined />}
-              onClick={() => router.push("/products")}
-            />
 
             <Badge
               count={cartItemCount}

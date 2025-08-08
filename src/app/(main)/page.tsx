@@ -8,6 +8,7 @@ import { useRouter } from "next/navigation";
 import CarouselMain from "../components/main-carousel/page";
 import { HeartOutlined } from "@ant-design/icons";
 import "./style.css";
+import { AiOutlineEye } from "react-icons/ai";
 const { Meta } = Card;
 
 interface Product {
@@ -57,17 +58,17 @@ export default function Home() {
                   />
                 }
                 actions={[
-                  <div
-                    className="action-card"
-                    key="action">
-                    <Button
-                      className="details-btn"
-                      type="link"
-                      onClick={() => router.push(`/product/${pro.id}`)}>
-                      تفاصيل
-                    </Button>
-                    <HeartOutlined onClick={() => router.push(`/favourites`)} />
-                  </div>,
+                  <AiOutlineEye
+                    key="view"
+                    type="link"
+                    size={18}
+                    onClick={() => router.push(`/product/${pro.id}`)}
+                  />,
+                  <HeartOutlined
+                    key="favourite"
+                    type="link"
+                    onClick={() => router.push(`/favourites`)}
+                  />,
                 ]}>
                 <Meta
                   title={`${pro.name.ar} - $${pro.price}`}

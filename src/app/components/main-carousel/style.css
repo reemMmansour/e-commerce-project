@@ -1,0 +1,8 @@
+.ant-carousel .carousel-main-home .slick-dots li button {
+  background-color: #9ea8f3 !important;
+}
+
+
+.ant-carousel .carousel-main-home .slick-dots li.slick-active::after  {
+  background-color: #4255e6 !important;
+}

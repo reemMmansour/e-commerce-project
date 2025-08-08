@@ -6,16 +6,16 @@
   .ant-card-meta
   .ant-card-meta-detail
   .ant-card-meta-title {
-  color: #4255e6;
+  color: #ffce68;
 }
 
 .action-card {
   display: flex;
-  justify-content: space-between;
+  justify-content: end;
   padding: 0 15px;
 }
 .action-card .details-btn {
-  font-size: 12px;
+  font-size: 14px;
   height: 0;
   padding: 0;
   color: #4255e6;
