@@ -1,6 +1,6 @@
 "use client";
 
-import styles from "../page.module.css";
+// import styles from "../page.module.css";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { Card, Row, Col, Button } from "antd";
@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
       <CarouselMain />
-      <div className={styles.page}>
+      <div className="product-page">
         <Row
           gutter={[24, 24]}
           justify="start">

@@ -1,7 +1,7 @@
 import { APP_NAME } from "@/lib/constants";
 import Header from "@/shared/header/page";
-import { Carousel } from "antd";
-import CarouselMain from "./components/main-carousel/page";
+import "./page.module.css";
+import "./globals.css";
 
 export const metadata = {
   title: APP_NAME,

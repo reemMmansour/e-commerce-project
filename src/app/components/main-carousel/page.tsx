@@ -9,8 +9,8 @@ function CarouselMain() {
         theme={{
           components: {
             Carousel: {
-              dotWidth: 30,
-              dotHeight: 30,
+              dotWidth: 20,
+              dotHeight: 20,
               dotActiveWidth: 50,
             },
           },

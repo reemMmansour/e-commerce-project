@@ -1,3 +1,10 @@
+.product-page {
+  padding: 40px;
+  background-color: #f1f4f7;
+  min-height: 100vh;
+  margin:0;
+}
+
 .product-card .ant-card-body {
   padding: 15px;
 }
